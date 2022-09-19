@@ -11,3 +11,5 @@ So, In control panel -> Network and Internet -> Network connection -> Ethernet -
 ## Connecting to the-things-network (TTN)
 Please refer to the folloeing link to setup the account on TTN and adding end devices on it and registering the same: 
 [Setup guide for TTN](https://support.digitalmatter.com/support/solutions/articles/16000122066-setup-devices-on-the-things-network-v3-)
+
+Note - In the code attached in the repo contains the keys(Apps-key, Nws-key, etc.) that I generated for my devices on ttn, in order to make the code work please change those keys with the ones you generated.
